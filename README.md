@@ -10,6 +10,7 @@
 | Analysis and ML code| code22.ipynb     |
 
 
+
 ### 2. Problem Statement
 Our problem statement would be to find out what are the common trends in job listings. With the difficulties in the job market, both job seekers and recruiters are facing challenges. To begin with, job seekers are facing a problem where they look at job titles, when they should be evaluating their skills first. Ideally, the candidates should assess the skills they possess and match them with job postings. However, in many cases, job seekers search for a job title on job boards and send in job applications. 
 
